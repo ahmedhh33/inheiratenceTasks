@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\bin\Debug\net6.0\inheiratance.exe
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\bin\Debug\net6.0\inheiratance.deps.json
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\bin\Debug\net6.0\inheiratance.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\bin\Debug\net6.0\inheiratance.dll
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\bin\Debug\net6.0\inheiratance.pdb
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\obj\Debug\net6.0\inheiratance.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\obj\Debug\net6.0\inheiratance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\obj\Debug\net6.0\inheiratance.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\obj\Debug\net6.0\inheiratance.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\obj\Debug\net6.0\inheiratance.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\obj\Debug\net6.0\inheiratance.dll
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\obj\Debug\net6.0\refint\inheiratance.dll
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\obj\Debug\net6.0\inheiratance.pdb
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\obj\Debug\net6.0\inheiratance.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\inheiratance\inheiratance\obj\Debug\net6.0\ref\inheiratance.dll
