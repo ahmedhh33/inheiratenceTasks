@@ -23,7 +23,9 @@ Console.WriteLine("**************************************************");
 Dog A1 = new Dog("ewit", 1, "mammals", "noid");//task5
 A1.getAnimalInfo();
 A1.doSomthing();
+A1.animalSound();
 //A1.animalSound();
 cat caat = new cat("nnal",2);
 caat.doSomthing();
+caat.animalSound();
 caat.makesound();

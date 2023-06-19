@@ -35,11 +35,11 @@ namespace inheiratance
 
         public override void animalSound()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("awwwaww");
         }
         public virtual void doSomthing()
         {
-            Console.WriteLine("dog sound");
+            Console.WriteLine("helping");
         }
 
         public void getAnimalInfo()
@@ -55,15 +55,15 @@ namespace inheiratance
 
         public override void animalSound()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("miawwww");
         }
-        public void doSomthing() 
+        public  void doSomthing() 
         { 
-            Console.WriteLine("cat sound");
+            Console.WriteLine("noisee");
         }
-        public virtual void makesound()
-        {
-            Console.WriteLine("miaaww!!");
-        }
+        //public virtual void makesound()
+        //{
+        //    Console.WriteLine("miaaww!!");
+        //}
     }
 }
