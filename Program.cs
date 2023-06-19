@@ -20,7 +20,9 @@ Manager m1 = new Manager("Salem", "AD-4443", "Operation",1200);//task4
 m1.employeeInfo();
 Console.WriteLine("**************************************************");
 
-Dog A1 = new Dog("ewit", 1, "mammals", "noid");//task5
+Dog A1 = new Dog("ewit", 1, "mammals", "noid");
+Dog A2 = new Dog("ewit", 1, "mammals", "noid");
+Console.WriteLine(A1.Equals(A2)); //TO CHICK IF THE NAME OF DOG OF TWO OBJECTS ARE SAME                                          //task5
 A1.getAnimalInfo();
 A1.doSomthing();
 A1.animalSound();

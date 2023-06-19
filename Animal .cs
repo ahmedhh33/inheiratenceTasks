@@ -21,6 +21,15 @@ namespace inheiratance
         {
             Console.WriteLine("animal sound");
         }
+        public override bool Equals(object? obj)//TO CHICK IF THE NAME OF DOG OF TWO OBJECTS ARE SAME  
+        {
+           Animal animal2 = obj as Animal;
+            if (animal2 == null)
+            {
+                return false;
+            }
+            return this.Name == ((Animal)obj).Name;
+        }
     }
     internal class Dog : Animal
     {
