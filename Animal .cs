@@ -7,7 +7,7 @@ using System.Xml.Linq;
 
 namespace inheiratance
 {
-    internal class Animal
+    internal abstract class Animal
     {
         public string Name;
         public int Age;
@@ -15,6 +15,11 @@ namespace inheiratance
         {
             this.Name = name;
             this.Age = age;
+        }
+        public abstract  void animalSound();
+        public void makesound()
+        {
+            Console.WriteLine("animal sound");
         }
     }
     internal class Dog : Animal
@@ -27,9 +32,38 @@ namespace inheiratance
             this.Breed = Breed;
             this.Sound = Sound;
         }
+
+        public override void animalSound()
+        {
+            throw new NotImplementedException();
+        }
+        public virtual void doSomthing()
+        {
+            Console.WriteLine("dog sound");
+        }
+
         public void getAnimalInfo()
         {
             Console.WriteLine(this.Name + " " + this.Age + " " + Breed + " " + Sound);
+        }
+    }
+    internal class cat : Animal
+    {
+        public cat(string name, int age) : base(name, age)
+        {
+        }
+
+        public override void animalSound()
+        {
+            throw new NotImplementedException();
+        }
+        public void doSomthing() 
+        { 
+            Console.WriteLine("cat sound");
+        }
+        public virtual void makesound()
+        {
+            Console.WriteLine("miaaww!!");
         }
     }
 }

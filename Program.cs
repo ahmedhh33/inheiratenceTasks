@@ -6,8 +6,8 @@ Student s1 = new Student("ahmed", 25, 23332, "power system ");//task1
 s1.getInformation();
 Console.WriteLine("**************************************************");
 
-Rectangle R1 = new Rectangle("Blu", 20, 10);//task2
-Console.WriteLine("The area of rectangle = " + R1.area());
+//Rectangle R1 = new Rectangle("Blu", 20, 10);//task2
+//Console.WriteLine("The area of rectangle = " + R1.area());
 
 Console.WriteLine("**************************************************");
 
@@ -22,3 +22,8 @@ Console.WriteLine("**************************************************");
 
 Dog A1 = new Dog("ewit", 1, "mammals", "noid");//task5
 A1.getAnimalInfo();
+A1.doSomthing();
+//A1.animalSound();
+cat caat = new cat("nnal",2);
+caat.doSomthing();
+caat.makesound();
